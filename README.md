@@ -14,7 +14,7 @@ Installation:
 -run Getting Over It and enjoy
 
 -----------------------------------------------------------------------
-Join the discord server if you have any question or just to support this project
+Join the discord server if you have any question or just to support this project:
 
 https://discord.gg/dkgb32xXRe
 
