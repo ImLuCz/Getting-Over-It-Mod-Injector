@@ -17,3 +17,7 @@ Installation:
 Join the discord server if you have any question or just to support this project
 
 https://discord.gg/dkgb32xXRe
+
+WARNING
+You are NOT allowed to publish the source code, in any way.
+Join the discord server for more info.
